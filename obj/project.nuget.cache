@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DKeQlkRjShLWj2Jjnzuopd2Nmm2zom5Vyjf6mY3d5nMh7Lhw1qWeshUEdhzHSiHhAZ0Qp6C4oR7Xv+BaH4dKtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tekta\\OneDrive\\Masaüstü\\sadikturan_netcore_notları\\sayi-tahmin-oyunu\\sayi-tahmin-oyunu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
